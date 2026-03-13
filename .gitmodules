@@ -1,19 +1,19 @@
 [submodule "deps/plog"]
 	path = deps/plog
-	url = https://github.com/SergiusTheBest/plog.git
+	url = https://github.com/vuljector/plog
 	shallow = true
 [submodule "deps/usrsctp"]
 	path = deps/usrsctp
-	url = https://github.com/paullouisageneau/usrsctp.git
+	url = https://github.com/vuljector/usrsctp
 	shallow = true
 [submodule "deps/libjuice"]
 	path = deps/libjuice
-	url = https://github.com/paullouisageneau/libjuice.git
+	url = https://github.com/vuljector/libjuice
 [submodule "deps/json"]
 	path = deps/json
-	url = https://github.com/nlohmann/json.git
+	url = https://github.com/vuljector/json
 	shallow = true
 [submodule "deps/libsrtp"]
 	path = deps/libsrtp
-	url = https://github.com/cisco/libsrtp.git
+	url = https://github.com/vuljector/libsrtp
 	shallow = true
